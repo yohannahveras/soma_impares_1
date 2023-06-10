@@ -1,0 +1,15 @@
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.AssemblyReference.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfoInputs.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfo.cs
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.exe
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.deps.json
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.runtimeconfig.json
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.pdb
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\obj\Debug\net6.0\refint\soma_impares.dll
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.pdb
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.genruntimeconfig.cache
+C:\Users\Yohannah\Desktop\Projects\Udemy - Algoritmos e Lógica de Programação\Códigos em C#\VisualStudio2022\soma_impares\soma_impares\obj\Debug\net6.0\ref\soma_impares.dll
